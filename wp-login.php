@@ -35,7 +35,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Tự động đăng nhập</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập">
-									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=2194">
+									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=3038">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -60,7 +60,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
 <option value="vi" lang="vi" selected data-installed="1">Tiếng Việt</option></select>
 					
-											<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=2194">
+											<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=3038">
 					
 					
 						<input type="submit" class="button" value="Thay đổi">
@@ -89,13 +89,14 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://vutran1211.github.io/doancuoiki/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/doancuoiki\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://vutran1211.github.io/doancuoiki/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"a35ee6fb97"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"04dc05d10d"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );</script>
 <script src="https://vutran1211.github.io/doancuoiki/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
-	<div class="clear"></div>
+		<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);</script>
+			<div class="clear"></div>
 	</body>
 	</html>
