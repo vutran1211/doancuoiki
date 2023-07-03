@@ -12,12 +12,47 @@
 	<atom:link href="https://vutran1211.github.io/doancuoiki/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vutran1211.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Jun 2023 09:21:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jun 2023 09:47:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-</channel>
+	<item>
+		<title>Hello world!</title>
+		<link>https://vutran1211.github.io/doancuoiki/2023/06/12/hello-world/</link>
+					<comments>https://vutran1211.github.io/doancuoiki/2023/06/12/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin1]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2023 11:54:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://vutran1211.github.io/doancuoiki/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6d5e95a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6d5e95a1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-650da079" data-id="650da079" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67cc5672 elementor-widget elementor-widget-text-editor" data-id="67cc5672" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://vutran1211.github.io/doancuoiki/2023/06/12/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
